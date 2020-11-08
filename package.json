@@ -1,0 +1,21 @@
+{
+  "name": "JS03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ex": "echo \"Hello world\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShadVlad/JS03.git"
+  },
+  "keywords": [],
+  "author": "V.Shadrin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShadVlad/JS03/issues"
+  },
+  "homepage": "https://github.com/ShadVlad/JS03#readme"
+}
